@@ -6,6 +6,8 @@ I'm a passionate mobile developer focused on building high-quality Android appli
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- Stats are currently commented out due to API service issues -->
+<!--
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=300Ech&show_icons=true&theme=tokyonight&hide_border=true" alt="300Ech's GitHub stats" />
@@ -14,6 +16,7 @@ I'm a passionate mobile developer focused on building high-quality Android appli
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=300Ech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+-->
 ### 📫 Connect with me
 <!-- Add your social links here -->
 <!--
