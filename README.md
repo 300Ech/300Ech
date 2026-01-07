@@ -1,27 +1,45 @@
-# Hi there, I'm Everts Chavez! 👋
-## 🚀 Android Developer | Kotlin Multiplatform Enthusiast
-I'm a passionate mobile developer focused on building high-quality Android applications and exploring the power of Kotlin Multiplatform. I love creating smooth user experiences and clean, maintainable code.
-### 🛠️ Tech Stack
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- Stats are currently commented out due to API service issues -->
-<!--
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=300Ech&show_icons=true&theme=tokyonight&hide_border=true" alt="300Ech's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=300Ech&theme=tokyonight&hide_border=true" alt="300Ech's streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=300Ech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
--->
-### 📫 Connect with me
-<!-- Add your social links here -->
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
--->
+# Hi, I'm Everts Chavez 👋  
+### Senior Android Engineer | Kotlin | Jetpack Compose | Long-lived Codebases
+
+I’m a Senior Android Engineer with over a decade of experience building, maintaining, and evolving production Android applications used at scale.
+
+My core strength is working on **long-lived codebases**: stabilizing apps, fixing hard bugs, improving performance, modernizing architecture, and shipping features without breaking what already works. I focus on **practical engineering**, not trends for the sake of trends.
+
+I’ve worked closely with backend, QA, and product teams, often owning critical investigations where requirements were unclear and failures had real business impact.
+
 ---
-⭐️ From [300Ech](https://github.com/300Ech)
+
+## What I specialize in
+
+- Designing and refactoring **clean, modular Android architectures**
+- Debugging complex issues (ANRs, crashes, memory leaks, threading)
+- Migrating legacy UI and logic to **Jetpack Compose**
+- Building reliable offline-first experiences with Room and sync logic
+- Integrating and maintaining REST APIs in unstable network conditions
+- Improving app stability, performance, and release confidence
+
+---
+
+## Tech Stack
+
+- **Languages:** Kotlin, Java  
+- **Android:** Android SDK, Jetpack Compose, ViewModel, Room, WorkManager  
+- **Architecture:** MVVM, Dependency Injection (Hilt/Dagger, Koin)  
+- **Concurrency:** Coroutines, Flows  
+- **Networking:** Retrofit, REST APIs  
+- **Tooling:** Git, Android Studio, profiling and debugging tools  
+
+---
+
+## How I work
+
+- I prioritize **correctness, stability, and maintainability**
+- I question requirements that introduce unnecessary complexity
+- I care about readable code that other engineers can safely modify
+- I take ownership of problems until they are truly solved
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/evertschavez/
